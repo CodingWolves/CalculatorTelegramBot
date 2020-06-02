@@ -11,7 +11,7 @@
       "id": 2,
       "triggers": ["result"],
       "type": "text",
-      "data": "{data.calculate_result}",
+      "data": "{data.calculate_result}"
     }
   ],
   "default_action_id": 1,

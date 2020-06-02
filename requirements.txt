@@ -1,1 +1,1 @@
-EasyTeleBot~=0.0.3
+EasyTeleBot~=0.0.4

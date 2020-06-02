@@ -1,6 +1,6 @@
 import os
 
-from EasyTeleBot import CreateEasyTelegramBot
+from EasyTeleBot.TelegramBot import CreateEasyTelegramBot
 
 easy_bot = CreateEasyTelegramBot('config.json', telegram_token=os.environ['TELEGRAM_TOKEN'])
 
