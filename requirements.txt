@@ -1,1 +1,2 @@
-EasyTeleBot~=0.0.4
+EasyTeleBot==0.0.4
+StringCalculator==0.0.4
