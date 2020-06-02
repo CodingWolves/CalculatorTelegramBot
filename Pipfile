@@ -7,7 +7,7 @@ name = "pypi"
 [packages]
 
 gunicorn = "*"
-EasyTeleBot = "*"
+EasyTeleBot = "0.0.4"
 
 [requires]
 
