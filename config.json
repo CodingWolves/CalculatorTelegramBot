@@ -1,0 +1,12 @@
+{
+  "actions": [
+    {
+      "id": 0,
+      "type": "calculate",
+      "data": "{data.last_text_received}"
+    }
+  ],
+  "default_action_id": 0,
+  "webhook_url": "https://example-server.herokuapp.com/example-identifier",
+  "bot_name": "calculator_bot"
+}
