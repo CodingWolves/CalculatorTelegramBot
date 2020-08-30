@@ -17,7 +17,7 @@
      "id": 3, 
       "triggers": ["/start", "start", "/help", "help"],
       "type": "text",
-      "data": "To use this bot, send an equation by format \r\nAllowed characters ^, V, *, /, +, -, () \r\nYou can type 'result' for the previous result saved"
+      "data": "To use this bot, send an equation by format '5*(6^2)+2'\r\nAllowed characters ^, V, *, /, +, -, () \r\nYou can type 'result' for the previous result saved"
     }
   ],
   "default_action_id": 1,
